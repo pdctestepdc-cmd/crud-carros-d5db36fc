@@ -1,1 +1,6 @@
-# crud-carros-d5db36fc
+# CRUD CARROS
+
+## Estrutura
+
+- `backend/` — API Java Spring Boot
+- `frontend/` — App React
